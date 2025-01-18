@@ -1,1 +1,1 @@
-# jain-university-18012023
+# Big Data Management and Analytics
