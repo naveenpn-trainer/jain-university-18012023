@@ -1,6 +1,6 @@
 # Introduction to Big Data
 
-> Big Data refers to the data which is **large, fast** and complex type of **structured, semi-structured and unstructured data** generated from variety of different sources, which becomes difficult to store and process using a traditional processing system.
+> Big Data refers to the data which is **large, fast** and complex type of **structured, semi-structured and unstructured data** generated from variety of different sources, which becomes **difficult to store and process using a traditional processing system.**
 
 **Challenges of Big Data**
 
@@ -22,6 +22,12 @@
 ## Hadoop Daemon Services
 
 * A daemon service refers to a long running background process or service that performs various tasks to support components of Hadoop.
+  * NameNode
+  * SecondaryNameNode
+  * DataNode
+  * ResourceManager
+  * NodeManager
+
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXda6z7P8U6DC4B1SgFtZssdeLpJUXoP81CvuthCPEyO7bv8YWd6LJZ5Erc3Nb7yJRr3BZN3UwITJO9TeLAJsWxMbQvfkjXIvi-QUGeOgTuCSVlhG265L0UMQCd2BriX81NLxSEPpCaTtelbGhuVMWiaj0Q?key=Lcjgu0sLjm8U8i3A_14gRg)
 
@@ -42,6 +48,36 @@
 **Scalable**
 
 * I can increase or decrease the number of nodes in the cluster
+
+## HDFS Fault Tolerance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
