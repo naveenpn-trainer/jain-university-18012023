@@ -43,7 +43,7 @@ Spark comes with bunch of libraries and interfaces
 
 1. Load the data
 2. Process the data
-3. write the results to different destination systems
+3. Write the results to different destination systems
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe76oTQ4TCQt0lNYQa7gQTIa74Z-WSmTCAMQdVzPyVCci2N2RGu30rtrn_xl9cOODQJGTYOqkaenPMEsfXBGLsOpjJOk4UqzDrMPxl3CyCzLhx0vg5UQbPsMhiQvfA426Vpien8nd2-U3kePApg3PwZu9A?key=_he-T4Jq934AhrSZa-Be-g)
 
