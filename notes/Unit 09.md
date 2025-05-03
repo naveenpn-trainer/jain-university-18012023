@@ -37,8 +37,6 @@ Spark comes with bunch of libraries and interfaces
 1. Low Level (RDD's) - Deprecated
 2. High Level  - (DataFrame, Dataset API)
 
-
-
 ## Building a Spark Application
 
 1. Load the data
